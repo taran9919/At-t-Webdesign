@@ -186,6 +186,7 @@ a {
 .data {
   margin-top: 15%;
   margin-bottom: 1.5rem;
+  font-size: var(--big-font-size);
 }
 
 .data_subtitle {
